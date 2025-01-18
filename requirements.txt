@@ -1,0 +1,5 @@
+argparse
+pyperclip
+tqdm
+yt-dlp
+requests
